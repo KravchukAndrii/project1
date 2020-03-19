@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Apllication1</string>
+    <string name="name1">Дамба Гувера</string>
+    <string name="description1">Гребля Гувера (дамба Гувера, дамба Боулдер) - одна з найбільших і, напевно, найвідоміша гребля в США. Вона побудована на кордоні штатів Невада і Арізона у вузькому Чорному каньйоні, утвореному річкою Колорадо. Гребля Гувера є не тільки великою гідроелектростанцією, а й головною складовою системи меліорації та захисту від повеней на південному заході США."</string>
+    <string name="todo" translatable="false">TODO</string>
+    <string name="todo1" translatable="false">TODO</string>
+</resources>
